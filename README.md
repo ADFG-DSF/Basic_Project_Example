@@ -9,7 +9,7 @@ More information on organizing projectS:
 
 ## Files Guide
 
-__data__ stores the raw data, the clean data and a metadata .txt file. The raw data should never be edited - only read. Analysis starts with the clean data.
+__data__ stores the raw data, the clean data and a metadata .txt file. The raw data should never be edited - only read.
 
 __reports__ contains the working and final project reports
 
