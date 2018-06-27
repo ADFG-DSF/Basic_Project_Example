@@ -1,7 +1,7 @@
-# AncBowl_LakeEvals
 
-A template for how to organize a very simple project. For large projects an R package is probably more appropriate.
+# Project Name
 
+More information on organizing projectS:
 * Guide to simple layout above: https://nicercode.github.io/blog/2013-04-05-projects/
 * Guide to R package organization: http://www.carlboettiger.info/2012/05/06/research-workflow.html
 
