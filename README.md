@@ -1,8 +1,6 @@
 
 # Project Name
 
-I am a careless person who want to screw up someone else work.
-
 More information on organizing projects:
 * Guide to simple layout above: https://nicercode.github.io/blog/2013-04-05-projects/
 * Guide to R package organization: http://www.carlboettiger.info/2012/05/06/research-workflow.html
